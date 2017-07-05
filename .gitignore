@@ -1,0 +1,7 @@
+/logs
+/checkpoint
+/lstm_self_built.chkpt.data-00000-of-00001
+/lstm_self_built.chkpt.index
+/lstm_self_built.chkpt.meta
+*.pyc
+/.ipynb_checkpoints
