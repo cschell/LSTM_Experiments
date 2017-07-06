@@ -5,7 +5,9 @@ import os
 import string
 import itertools
 from pprint import pprint
-from random import shuffle
+from random import shuffle, seed
+
+seed(7)
 
 encodingDict = {
   '0': [0, 0, 0],
